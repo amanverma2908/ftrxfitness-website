@@ -208,6 +208,7 @@ function About() {
               >
                 <FiInstagram className="w-6 h-6" />
               </a>
+              
 
               <a
                 href="https://www.linkedin.com/in/nikhilgupta13/"
